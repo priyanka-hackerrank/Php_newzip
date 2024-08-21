@@ -1,0 +1,7 @@
+{
+    "name": "hackerrank/calculator",
+    "description": "Simple calculator app",
+    "require": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
